@@ -11,5 +11,4 @@ Gem::Specification.new do |gem|
   gem.files = `git ls-files`.split(" ")
   gem.add_dependency 'flipper', '~> 0.6'
   gem.add_runtime_dependency 'activerecord', '>= 3.2.21', '< 4'
-  gem.add_runtime_dependency 'foreigner', '~> 1.7', '>= 1.7.4'
 end

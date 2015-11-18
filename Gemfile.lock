@@ -4,7 +4,6 @@ PATH
     flipper-activerecord3dot2 (0.1.2)
       activerecord (>= 3.2.21, < 4)
       flipper (~> 0.6)
-      foreigner (~> 1.7, >= 1.7.4)
 
 GEM
   remote: https://rubygems.org/
@@ -29,8 +28,6 @@ GEM
     diff-lcs (1.2.5)
     ffi (1.9.5)
     flipper (0.7.1)
-    foreigner (1.7.4)
-      activerecord (>= 3.0.0)
     formatador (0.2.5)
     guard (2.6.1)
       formatador (>= 0.2.4)
